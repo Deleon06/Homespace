@@ -361,3 +361,15 @@ label .glyphicon {
         background-color: #FFF
     }
 }
+
+.btn-primary { 
+    background: #65a243;
+}
+
+.bg-info {
+    background: url('../img/CoverImage_v5.jpg') center / 100% auto no-repeat;
+    height: 570px;
+    /* position: absolute; */
+}
+
+
